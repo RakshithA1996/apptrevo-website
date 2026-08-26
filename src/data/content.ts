@@ -44,16 +44,16 @@ export interface FounderProfile {
 
 export const founders: FounderProfile[] = [
   {
-    name: "Rakshith Acharya",
-    role: "Mobile, Full-Stack & Connected-Device Engineering",
-    focus: "BLE · OCPP · Real-time streaming · Firmware workflows",
-    bio: "Five-plus years building production React Native and native Android apps in the EV mobility sector, with deep hands-on experience integrating hardware SDKs and connectivity protocols.",
-  },
-  {
     name: "Sanjay Nagesh",
     role: "Cloud Infrastructure & DevOps",
     focus: "AWS · Kubernetes · CI/CD · FinOps",
     bio: "Senior infrastructure engineer with a track record running secure, highly-available hybrid infrastructure — including a 300+ server migration and a 20% cloud cost reduction through FinOps practice.",
+  },
+  {
+    name: "Rakshith Acharya",
+    role: "Mobile, Full-Stack & Connected-Device Engineering",
+    focus: "BLE · OCPP · Real-time streaming · Firmware workflows",
+    bio: "Senior engineer with years of experience building production React Native and native Android apps in the EV mobility sector, with deep hands-on experience integrating hardware SDKs and connectivity protocols.",
   },
   {
     name: "Karthik Raikar",
